@@ -1,0 +1,8 @@
+# Ignorar entornos virtuales
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar paquetes instalados globalmente (si están dentro del repo)
+lib/
